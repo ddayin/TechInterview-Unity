@@ -1,4 +1,4 @@
-# TechInterview-Unity
+# TechInterview-UnityDeveloper
 
 <span style="color: red">Unity version : 2023.3</span>
 
