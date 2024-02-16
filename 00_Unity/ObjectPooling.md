@@ -57,4 +57,4 @@ public class ObjectPool : MonoBehaviour
 }
 ```
 
-In this example, prefab refers to the GameObject that will be used to create the objects in the pool. poolSize determines the initial size of the pool. The GetPooledObject() method retrieves an inactive object from the pool, and
+You would attach this script to an empty GameObject in your scene and assign the prefab of the object you want to pool to the prefab variable in the inspector. Then you can call GetObjectFromPool() to retrieve objects from the pool and ReturnObjectToPool() to return them to the pool when you're done with them.
