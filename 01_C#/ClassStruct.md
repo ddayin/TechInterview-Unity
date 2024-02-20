@@ -38,7 +38,8 @@ struct MyStruct
 }
 ```
 
-Choosing Between Structs and Classes:
+Choosing Between Structs and Classes
+
 Use structs:
 - When you need lightweight objects.
 - When the object logically represents a single value, like a Point or a DateTime.
