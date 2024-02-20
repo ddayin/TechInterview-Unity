@@ -39,13 +39,13 @@ struct MyStruct
 ```
 
 Choosing Between Structs and Classes:
-- Use structs:
-  - When you need lightweight objects.
-  - When the object logically represents a single value, like a Point or a DateTime.
-  - When you want value semantics, or if you need to pass the object by value frequently.
+Use structs:
+- When you need lightweight objects.
+- When the object logically represents a single value, like a Point or a DateTime.
+- When you want value semantics, or if you need to pass the object by value frequently.
 
 Use classes:
 - For complex objects that require inheritance or are intended to be used as base classes.
 - When you need reference semantics, or if you need to share the object across multiple parts of your code without making copies.
-- 
+
 Understanding these differences is crucial for designing efficient and effective solutions in C#.
