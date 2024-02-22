@@ -20,5 +20,5 @@ Certainly! Here are some technical interview questions focused on C# programming
 18. Explain the concept of boxing and unboxing in C#.
 19. How do you implement properties and indexers in C#?
 20. Discuss the difference between 'StringBuilder' and 'String' in C# and when to use each.
-21. 
+
 These questions cover various fundamental aspects of C# programming language and are commonly asked in technical interviews. Make sure to understand these concepts thoroughly and be prepared to provide examples or code snippets to support your answers. Practice coding and solving problems using C# to strengthen your skills further.
